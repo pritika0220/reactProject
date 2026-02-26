@@ -47,7 +47,7 @@ const App = () => {
     <div className="container">
       <header>
         <h1>Student Directory</h1>
-        <p style={{ color: '#64748b', marginBottom: '32px' }}>Track performance and attendance in real-time.</p>
+        
         
         <div className="input-wrapper" style={{ maxWidth: '400px', marginBottom: '24px' }}>
           <input 
